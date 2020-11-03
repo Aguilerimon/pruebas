@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!--          English              -->
+
+    <string name="app_name">AgroSmart</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_sensors">Sensors</string>
+    <string name="menu_connections">Connections</string>
+    <string name="menu_specs">Specs</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_policy">Terms</string>
+    <string name="menu_contact">Contact</string>
+    <string name="menu_logout">Log out</string>
+
+    <string name="text_wind">Wind fragment</string>
+    <string name="text_water">Water fragment</string>
+    <string name="text_ground">Ground fragment</string>
+    <string name="text_contact">Fragment contáctanos</string>
+    <string name="text_connections">Connections</string>
+    <string name="text_home">Home fragment</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_policy">Terms fragment</string>
+    <string name="text_notifications">Notifications</string>
+    <string name="text_account">Account fragment</string>
+
+    <string name="text_login">Sign in</string>
+    <string name="text_password">Password</string>
+    <string name="text_email">Email</string>
+    <string name="text_forgot_password">Forgot password?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_google">Google</string>
+    <string name="text_register_account">No account? Sign up</string>
+
+    <string name="text_register">Sign up</string>
+    <string name="text_full_name">Fullname</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_confirm_password">Confirm password</string>
+    <string name="check_terms">Ive read the terms</string>
+    <string name="btn_register">Submit</string>
+
+    <string name="tab_water">Water</string>
+    <string name="tab_wind">Wind</string>
+    <string name="tab_ground">Ground</string>
+    <string name="parameters_sensor">Parameters</string>
+    <string name="unit_sensor">Unit</string>
+    <string name="values_sensor">Values</string>
+    <string name="text_sensor">Active Sensors</string>
+
+    <string name="btn_irrigate">Irrigate</string>
+    <string name="switch_irrigate">Automatic Watering</string>
+
+    <string name="btn_ventilate">Ventilate</string>
+    <string name="switch_ventilate">Automatic Ventilation</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="login_success">Good credentials</string>
+    <string name="login_error">Login error</string>
+    <string name="retry">Retry</string>
+    <string name="register_success">Sign up success!</string>
+    <string name="register_error">Sign up error</string>
+
+    <string name="title_activity_register">Sign up</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_titleTableConnections">Internet connection status</string>
+    <string name="text_connectionTable">Connection</string>
+    <string name="text_spaceTable">Used space</string>
+    <string name="text_warningTable">Warnings</string>
+    <string name="text_logTable">Log</string>
+    <string name="buttonReconnect">Reconnect</string>
+
+    <string name="text_from">From:</string>
+    <string name="text_subject">Subject</string>
+    <string name="text_message">Message</string>
+    <string name="btn_send">Send</string>
+
+    <string name="settings_notifications">Settings Notifications</string>
+    <string name="settings_seconTitle">Notifications that you receive</string>
+    <string name="settings_notifi_medicion">Sensor measurements</string>
+    <string name="settings_notifi_conection">Connection/disconnection</string>
+    <string name="settings_notifi_ofer">Company offers</string>
+    <string name="settings_notifi_loginsin">Unknown Logins</string>
+
+    <string name="settings_copyBack">Copy/Backup</string>
+    <string name="settings_seconTitleCopy">Automatic backup</string>
+    <string name="settings_notifi_geneResp">Automatically generate data backups</string>
+
+    <string name="user_name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="pswd">Password</string>
+
+    <string name="settings_notifications_description">Enable/Disable notifications</string>
+    <string name="settings_backup">Backup</string>
+    <string name="settings_backup_description">Create a backup of the storage data</string>
+    <string name="settings_account">Account</string>
+    <string name="settings_account_description">Update your name, phone and email</string>
+
+    <string name="settings_security">Security and login</string>
+    <string name="settings_security_description">Change your paswword and take other ways in order to protect your account</string>
+    <string name="settings_security_title1">Sessions started</string>
+    <string name="settings_security_title2">Sing in</string>
+    <string name="settings_security_title3">Two-step authentication</string>
+    <string name="settings_security_title4">Notificaciones de acceso desconocido</string>
+    <string name="settings_security_description1">Sign out</string>
+    <string name="settings_security_description2">Update Password</string>
+    <string name="settings_security_description3">Use two-step authentication</string>
+    <string name="settings_security_description4">Authentication App</string>
+    <string name="settings_security_description5">SMS message</string>
+    <string name="settings_security_description6">Receive unauthorized login alerts</string>
+
+    <string name="settings_information">Information</string>
+    <string name="settings_information_description">application version</string>
+    <string name="settings_information_description2">1.0.0.1</string>
+    <string name="settings_information_description3">Agro Smart and logos are the property of Agro Smart</string>
+
+    <string name="home_columna1">Time</string>
+    <string name="home_columnaAgua">Ph</string>
+    <string name="home_columnaTierra">Solid solutions(STD)</string>
+    <string name="home_columnaAire">Sulfur Dioxide (SO2)</string>
+    <string name="home_actual">Actual</string>
+
+</resources>
